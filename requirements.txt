@@ -1,0 +1,13 @@
+flask
+tensorflow_hub
+pandas
+numpy
+nltk
+scipy==1.4.1
+newspaper3k
+googlenews
+tensorflow
+# os
+# json
+# time
+# re
