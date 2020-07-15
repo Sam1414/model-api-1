@@ -3,10 +3,11 @@ tensorflow_hub
 pandas
 numpy
 nltk
-scipy==1.4.1
+# scipy==1.4.1
 newspaper3k
 googlenews
 tensorflow
+setuptools==49.2.0
 # os
 # json
 # time
