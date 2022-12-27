@@ -8,7 +8,7 @@ nltk
 newspaper3k
 googlenews
 tensorflow
-setuptools==49.2.0
+setuptools==65.5.1
 # os
 # json
 # time
